@@ -1,6 +1,6 @@
  # AA-HUD — Acacia Avenue Heads-Up Display
 
-   Persistent desktop information banner for Windows 10/11 workstations and Window Server 2019/2022/2025.
+   Persistent desktop information banner for Windows 10/11 workstations and Windows Server 2019/2022/2025.
 
    AA-HUD displays a continuous, always-on banner at the top of every monitor
    showing user identity, system information, and organizational context —
