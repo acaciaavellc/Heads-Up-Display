@@ -31,6 +31,8 @@
 
    - Windows 10 (22H2+), Windows 11, or Windows Server 2019/2022/2025 — x64
    - Active Directory domain-joined workstation or server
+   - Microsoft Visual C++ 2015-2022 Redistributable (x64) — required. The installer will warn if not present.
+   [Download from Microsoft](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
    ---
 
