@@ -19,7 +19,6 @@
 
    ## Features
 
-   - Native C++ — no .NET runtime required
    - Multi-monitor support
    - Active Directory token substitution (`{DISPLAY_NAME}`, `{TITLE}`, `{COMPUTER_NAME}`, and more)
    - Group Policy managed (ADMX/ADML templates included)
