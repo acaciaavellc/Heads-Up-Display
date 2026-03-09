@@ -46,4 +46,4 @@
 
 ---
 
-*Frequently sought by organizations migrating from legacy Windows classification banner tools, including NetBanner.*
+*Frequently sought by organizations migrating from legacy Windows classification banner tools, including NetBanner, and those implementing USGCB or STIG-compliant desktop configurations.*
