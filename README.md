@@ -11,7 +11,7 @@
 
    ## Download
 
-   👉 [Latest Release — v1.0.067.4](https://github.com/acaciaavellc/Heads-Up-Display/releases/latest)
+   👉 [Latest Release — v1.0.83.1](https://github.com/acaciaavellc/Heads-Up-Display/releases/latest)
 
    Includes signed MSI installer and Group Policy templates (ADMX/ADML).
 
