@@ -8,6 +8,15 @@
    at the desktop level.
 
    ---
+   
+  ![AA-HUD deployed across multiple enterprise workstations](https://acaciaave.com/assets/6VMs.jpg)
+  *AA-HUD deployed across multiple enterprise workstations, showing live Active Directory token substitution for each
+user.*
+
+  ![AA-HUD showing user identity and classification on a single desktop](https://acaciaave.com/assets/j.reyes-adm.png)
+  *The banner remains anchored at the top of the primary display, showing the current user and system classification.*
+
+---
 
    ## Download
 
